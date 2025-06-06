@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Anthony Andy
+# 👋 Hi there! I'm Andy
 
 💻 **DevOps & Cloud Engineer** | 🛠️ **Infrastructure Automator** | 🐧 **Linux Enthusiast**
 
