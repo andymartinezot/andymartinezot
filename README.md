@@ -71,9 +71,8 @@ I'm an IT professional with 9+ years of experience in cloud architecture, infras
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/andymartinezot) *(replace with your actual link)*
-- 🧑‍💻 [GitHub Projects](https://github.com/andymartinezot) *(this profile!)*
-
+- 🌐 [LinkedIn](https://linkedin.com/in/andymartinezot)
+- 🧑‍💻 [GitHub Projects](https://github.com/andymartinezot)
 ---
 
-> “I like to deploy pods while I'm drinking a beer 😂🍺” – Myself
+> “I like to deploy pods while I'm drinking a beer 😂🍺” – Robert Downey Jr.
